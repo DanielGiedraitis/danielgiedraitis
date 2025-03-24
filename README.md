@@ -9,15 +9,10 @@
 
 - 📄 Know about my experiences [https://danielgiedraitis.github.io/PersonalWebsite/](https://danielgiedraitis.github.io/PersonalWebsite/)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/daniel-giedraitis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daniel-giedraitis" height="30" width="40" /></a>
-</p>
+### Connect with me:
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/daniel-giedraitis)
 
-<h3 align="left">Languages and Tools:</h3>
-
-## My Skills
-
+### My Skills:
 [![Angular](https://skillicons.dev/icons?i=angular)](https://angular.io/)
 [![Arduino](https://skillicons.dev/icons?i=arduino)](https://www.arduino.cc/)
 [![Bootstrap](https://skillicons.dev/icons?i=bootstrap)](https://getbootstrap.com/)
